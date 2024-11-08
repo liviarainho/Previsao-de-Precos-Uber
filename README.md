@@ -1,5 +1,6 @@
 # Previsão de Preço Uber 
 Análise de dados e aplicação de técnicas de regressão para a previsão de preços das corridas do Uber. 
+
 <img src="https://github.com/user-attachments/assets/09840671-1dca-49f4-b3b3-bb67ce371665" alt="image" width="50" height="50">
  
 # Etapas: 
