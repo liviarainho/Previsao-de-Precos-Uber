@@ -1,4 +1,5 @@
-# Previsao-de-Precos-Uber
+# Previsão de Preço Uber ![image](https://github.com/user-attachments/assets/1a44d387-74d0-4e87-9b98-dc5c1824220d)
+ 
 Análise de dados e aplicação de técnicas de regressão para a previsão de preços das corridas do Uber. 
 
 
